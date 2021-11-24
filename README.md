@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daurensky
+- 👋 Hi, I’m @daurensky <dkambarov17@gmail.com>
 - 👀 I’m interested in devops and web developing
 - 🌱 I’m currently learning Laravel PHP framework
 - 📫 How to reach me: [Telegram](https://t.me/daurensky)
