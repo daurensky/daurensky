@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daurensky, 19 y.o. PHP developer
+- 👋 Hi, I’m @daurensky, 20 y.o. PHP developer
 - 🎸 Backend - Laravel
 - 💅 Frontend - React, Vue
 - 👀 I’m interested in devops and web developing
