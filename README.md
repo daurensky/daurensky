@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dauren, 20 y.o. Software development engineer
+- 👋 Hi, I’m Dauren, 21 y.o. Software development engineer
 - 🎸 Backend langs - PHP (Pure, Laravel), JS (node, deno), and GO (Pure)
 - 💅 Frontend part on React
 - 👀 I’m interested in software development. Mostly automation
