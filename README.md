@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Dauren, 21 y.o. Software development engineer
-- 🎸 Backend langs - PHP (Pure, Laravel), JS (node, deno), and GO (Pure)
-- 💅 Frontend part on React
-- 👀 I’m interested in software development. Mostly automation
-- 🌱 I’m currently learning how to build large applications
+- 👋 Hi, I’m Dauren, 21 y.o. software developer
+- 🎸 Backend - Nodejs, Laravel, and Golang
+- 💅 Frontend - React, Remix
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning CI/CD
 - ✨ Sometimes I solve problems on [leetcode](https://leetcode.com/daurensky)
 - 📫 How to reach me: [Telegram](https://t.me/daurensky), <dkambarov17@gmail.com>
+- 🧑‍💻 And I also have my own website - [daurensky.dev](https://daurensky.dev)
