@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dauren, 21 y.o. software developer
+- 👋 Hi, I’m Dauren, 22 y.o. software developer
 - 🎸 Backend - Nodejs, Laravel, and Golang
 - 💅 Frontend - React, Remix
 - 👀 I’m interested in computer science
